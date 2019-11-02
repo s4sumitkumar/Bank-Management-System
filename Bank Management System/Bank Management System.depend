@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1572672211 source:c:\users\sumit\documents\bank management system\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+
